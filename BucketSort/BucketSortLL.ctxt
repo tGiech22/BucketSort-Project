@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BucketSortLL
+comment1.params=
+comment1.target=void\ main()
+comment2.params=list\ buckets\ length
+comment2.target=void\ bucketSort(LinkedList,\ Node[],\ int)
+comment3.params=list\ places\ buckets
+comment3.target=void\ listToBucket(LinkedList,\ int,\ Node[])
+comment4.params=list\ buckets
+comment4.target=void\ bucketToList(LinkedList,\ Node[])
+comment5.params=firstRow\ ListSize
+comment5.target=boolean\ firstRowFull(Node,\ int)
+comment6.params=buckets
+comment6.target=void\ printBucket(Node[])
+numComments=7
